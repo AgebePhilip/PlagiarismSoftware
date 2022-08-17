@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PlagiarismSoftware/static/css/main.d24b4e87.css",
+    "main.js": "/PlagiarismSoftware/static/js/main.b4327d17.js",
+    "static/media/People search-bro.png": "/PlagiarismSoftware/static/media/People search-bro.dda25f82b667704ea7da.png",
+    "index.html": "/PlagiarismSoftware/index.html",
+    "main.d24b4e87.css.map": "/PlagiarismSoftware/static/css/main.d24b4e87.css.map",
+    "main.b4327d17.js.map": "/PlagiarismSoftware/static/js/main.b4327d17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d24b4e87.css",
+    "static/js/main.b4327d17.js"
+  ]
+}
